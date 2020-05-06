@@ -1,36 +1,36 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Ian Stalter",
+    "role": "Frontend Developer and Test Engineer",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
+    "skypeid": "istalter66@gmail.com",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/ianstalter/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/ianstalter123",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/matrimx",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a self taught Full Stack Web Developer, currently diving deeper into React. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Washington",
+    "website":"ianstalter123.github.io/portfolio",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "UniversityName":"University of California San Diego",
+        "specialization":"Communications",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2008",
         "Achievements":"Some Achievements"
       },
       {
@@ -43,17 +43,17 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Mindlance/Apple",
+        "specialization":"Testing - Python",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "YearOfLeaving":"2019",
         "Achievements":"Some Achievements"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Photon Technologies",
+        "specialization":"Web development",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "YearOfLeaving":"2017",
         "Achievements":"Some Achievements"
       }
     ],
@@ -82,7 +82,7 @@ let resumeData = {
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
+        "description":"mobileapp",
         "imgurl":"images/portfolio/project2.png"
       },
       {
@@ -102,5 +102,5 @@ let resumeData = {
       }
     ]
   }
-  
+
   export default resumeData
