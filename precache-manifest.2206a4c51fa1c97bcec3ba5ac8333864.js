@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/portnew/static/js/runtime~main.f17be839.js"
   },
   {
-    "revision": "da081fd69e800a78770f3291fe1e1cf2",
+    "revision": "915ecf7736c9ecfd42335c9ac9d5069e",
     "url": "/portnew/index.html"
   }
 ];
